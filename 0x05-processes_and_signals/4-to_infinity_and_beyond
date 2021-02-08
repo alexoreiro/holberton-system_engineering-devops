@@ -4,4 +4,5 @@ TRUE=1
 while [ $TRUE ]
 do
 	echo 'To infinity and beyond'
+	Sleep 2
 done
