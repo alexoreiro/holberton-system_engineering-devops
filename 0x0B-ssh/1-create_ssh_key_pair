@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# script that creates an RSA key pair.
+ssh-keygen -f holberton -N betty -b 4096
+# Shares the SSH client configuration
+IdentityFile ~/.ssh/holberton
+PasswordAuthentication no
