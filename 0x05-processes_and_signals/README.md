@@ -1,9 +1,20 @@
-## README FILE
+# Project 0x05. System Engineering and DevOps Bash - Processes & Signals.
 
+## Learning objectives:
 
-## Project 0x05. System Engineering and DevOps Bash - Processes & Signals.
+What is a PID
 
-Pre-requirements 
+What is a process
+
+How to find a process PID
+
+How to kill a process
+
+What is a signal
+
+What are the 2 signals that cannot be ignored
+
+## Pre-requirements 
 
 Allowed editors: vi, vim, emacs
 
