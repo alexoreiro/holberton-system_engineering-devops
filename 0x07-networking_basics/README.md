@@ -1,26 +1,69 @@
-## README FILE
+# Project 0x07. System & DevOps - Networking Basics.
+
+## Learning objectives:
+
+## OSI Model
+
+What it is
+
+How many layers it has
+
+How it is organized
+
+What is a LAN
+
+Typical usage
+
+Typical geographical size
+
+## What is a WAN
+
+Typical usage
+
+Typical geographical size
+
+What is the Internet
+
+What is an IP address
+
+What are the 2 types of IP address
+
+What is localhost
+
+What is a subnet
+
+Why IPv6 was created
+
+## TCP/UDP
+
+What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
+
+What is the main difference between TCP and UDP
+
+What is a port
+
+Memorize SSH, HTTP and HTTPS port numbers
+
+What tool/protocol is often used to check if a device is connected to a network
 
 
-## Project 0x07. System & DevOps - Networking Basics.
-
-
-Pre-requirements 
+## Pre-requirements 
 
 Allowed editors: vi, vim, emacs
 
-All your files will be compiled on Ubuntu 14.04 LTS using gcc 4.8.4
+All your Bash script files will be interpreted on Ubuntu 14.04 LTS
 
 All your files should end with a new line
 
-A README.md file at the root of the holbertonschool-low_level_programming repo, containing a description of the repository
+A README.md file, at the root of the folder of the project, is mandatory
 
-A README.md file, at the root of the folder of this project, containing a description of the project
+All your Bash script files must be executable
 
-There should be no errors and no warnings during compilation
+Your Bash script must pass shellcheck without any error
 
-You are not allowed to use system
+The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+The second line of all your Bash scripts should be a comment explaining what is the script doing
 
 
 ## Versioned 
